@@ -1,0 +1,31 @@
+# Ignora el entorno virtual
+venv/
+
+# Ignora el archivo de variables de entorno real
+.env
+.env.backup
+# No ignores el archivo de ejemplo de variables de entorno
+!.env.example
+
+# Archivos y carpetas comunes de Python a ignorar
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
