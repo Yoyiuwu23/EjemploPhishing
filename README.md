@@ -113,36 +113,5 @@ No uses este software para actividades maliciosas o ilegales.
 ¿Dudas, sugerencias o quieres aportar?  
 [![Email](https://img.shields.io/badge/email-rodrigosanzana2000@gmail.com-blue?logo=gmail)](mailto:rodrigosanzana2000@gmail.com)
 
----
-
-```
-
-
----
-
-Puedes copiar y pegar este README.md en tu proyecto.
-¡Ahora tu proyecto se ve profesional, ético y con toda la información clave sobre tecnologías y licencia GPLv3!
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://gist.github.com/rxaviers/7360908
-
-[^2]: https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
-
-[^3]: https://github.com/ikatyang/emoji-cheat-sheet
-
-[^4]: https://jimit105.github.io/github-emoji-cheatsheet/
-
-[^5]: https://frankindev.com/2022/05/23/github-flavored-joypixels-cheat-sheet/
-
-[^6]: https://github.com/Mange/rofi-emoji/blob/master/README.md
-
-[^7]: https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia
-
-[^8]: https://emojipedia.org/github
-
-[^9]: https://github.com/hlaueriksson/github-emoji
-
-[^10]: https://github.com/cheatsnake/emojihub/blob/master/README.md
 
 ```
