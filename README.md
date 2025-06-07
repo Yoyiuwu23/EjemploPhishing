@@ -112,6 +112,3 @@ No uses este software para actividades maliciosas o ilegales.
 
 ¿Dudas, sugerencias o quieres aportar?  
 [![Email](https://img.shields.io/badge/email-rodrigosanzana2000@gmail.com-blue?logo=gmail)](mailto:rodrigosanzana2000@gmail.com)
-
-
-```
