@@ -91,6 +91,52 @@ python main.py
 
 ---
 
+---
+
+
+## 🔧 Problemas Comunes y Soluciones
+
+### 1. Error al activar el entorno virtual
+**Síntoma:**  
+El entorno virtual parece activado (`(venv)` en el prompt), pero `pip` o `python` apuntan al sistema.
+
+**Solución:**  
+Verifica la activación correcta:
+```
+
+which pip  \# Debe mostrar: .../EjemploPhishing/venv/bin/pip
+
+```
+Si no está activo:
+```
+
+source venv/bin/activate
+
+```
+
+### 2. Error con PyQt5: "Could not load the Qt platform plugin 'xcb'"
+**Síntoma:**  
+La aplicación falla al iniciar con mensajes relacionados con el plugin gráfico.
+
+**Solución:**  
+Instala las dependencias gráficas en Ubuntu:
+```
+
+sudo apt install libxcb-xinerama0 libxcb-cursor0 libxcb1 libx11-6 libxext6 libxrandr2
+
+```
+
+### 3. Autenticación rechazada por Gmail (error 535)
+**Síntoma:**  
+"No se pudo enviar el correo: (535, b'5.7.8 Username and Password not accepted')".
+
+**Solución:**  
+Genera una **contraseña de aplicación** en tu cuenta de Google:  
+[https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)  
+Usa esa contraseña en el archivo `.env`, no tu contraseña normal.
+``
+
+---
 ## 📚 Recursos útiles
 
 - [Más sobre phishing (Wikipedia)](https://es.wikipedia.org/wiki/Phishing)
